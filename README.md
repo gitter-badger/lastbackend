@@ -1,2 +1,3 @@
-# lastbackend
-Homepage of Last.Backend
+# Last.Backend
+
+Homepage of Last.Backend project
